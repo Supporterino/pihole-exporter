@@ -7,8 +7,8 @@ import (
 
 	log "github.com/sirupsen/logrus"
 
-	"github.com/eko/pihole-exporter/config"
-	"github.com/eko/pihole-exporter/internal/metrics"
+	"github.com/robert-figura/pihole-exporter/config"
+	"github.com/robert-figura/pihole-exporter/internal/metrics"
 )
 
 type ClientStatus byte
